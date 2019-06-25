@@ -21,4 +21,5 @@
 
 四.设计模式
 -----
-* [1.外观模式](http://note.youdao.com/noteshare?id=22ca1e440ba59cebce212c4c9be5ea69)Demo()
+* [1.外观模式](http://note.youdao.com/noteshare?id=22ca1e440ba59cebce212c4c9be5ea69)
+[Demo](https://github.com/Anyong123456/patternModel)
